@@ -418,7 +418,7 @@ a:hover{
     color:#fff;
     text-align:center;
     background-color:black;
-    background-image:linear-gradient(to-left, #00c3e3, #ff4554)
+    background-image:linear-gradient(to right, #00c3e3, #ff4554)
 }
 @media screen and (min-width: 64em){
     .page-header{
