@@ -1,6 +1,6 @@
 # Our 2018 Nintendo Switch giveaway has ended!
 
-The winner's e-mail is **gam\*\*\*\*\*\*ing@gmail.com**. If this is your e-mail, check your inbox for directions on how to claim your prize.
+The winner's e-mail is **gam\*\*\*\*\*\*ing@gmail.com**. If this is your e-mail, please check your inbox for directions on how to claim your prize.
 
 Thank you to everyone who entered, make sure to follow us on Twitter at _@ultimategiveaways_ to be notified when we host new giveaways.
 
